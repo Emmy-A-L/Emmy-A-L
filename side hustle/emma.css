@@ -1,0 +1,14 @@
+/* css time */
+
+h1 { 
+    color: blue;
+    text-shadow: 5px 2px 4px grey;
+
+
+ }
+.purpose { background-color: bisque;}
+#first { background-color: #ff5c33;
+         border: 1px bisque;
+         width: 900px;
+         height: 200px;  
+ }
